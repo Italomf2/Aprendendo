@@ -12,7 +12,7 @@ public class Exerc10 {
 
         Scanner ler = new Scanner (System.in);
 
-        System.out.println("Digite o primeiro numero inteiro");
+        System.out.println("Digite o primeiro numero inteiro, por favor");
         a = ler.nextInt();
 
         System.out.println("Digite o segundo numero inteiro");
