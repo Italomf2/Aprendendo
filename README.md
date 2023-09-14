@@ -1,1 +1,3 @@
-# Exercicios de logica de programação em JAVA
+<h1>Resolução de exercícios de JAVA</h1>
+
+> Status do projeto : Em andamento...
