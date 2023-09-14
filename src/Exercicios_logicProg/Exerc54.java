@@ -31,7 +31,7 @@ public class Exerc54 {
 
         Scanner entrada_2 = new Scanner(System.in);
         float h;
-        System.out.println("Digite o valor da altura em metros");
+        System.out.println("Digite o valor da altura em metros,por favor");
         h = entrada_2.nextFloat();
 
         entrada_2.close();
