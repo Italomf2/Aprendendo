@@ -21,7 +21,7 @@ public class Exerc37 {
         altura = ler.nextDouble();
 
 
-        volume = 3.1415 * (raio * raio) * altura;
+        volume = 3.1415 * Math.pow(raio,2) * altura;
 
         System.out.printf("O valor do volume é %.2f", volume);
 
